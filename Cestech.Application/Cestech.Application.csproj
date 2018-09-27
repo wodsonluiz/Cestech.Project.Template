@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Cestech.Application.Dto\Cestech.Application.Dto.csproj" />
+    <ProjectReference Include="..\Cestech.Domain\Cestech.Domain.csproj" />
+  </ItemGroup>
+
+</Project>
