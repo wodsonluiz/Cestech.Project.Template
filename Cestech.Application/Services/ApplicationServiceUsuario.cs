@@ -46,7 +46,7 @@ namespace Cestech.Application.Services
 
             try
             {
-                var query = new Usuario(usuario.Nome, usuario.Dt_Nascimento, usuario.Cep);
+                var query = new Usuario(usuario.Nome, usuario.Dt_Nascimento, usuario.Cep, usuario.Password);
 
                 if (query.Valid)
                 {
@@ -147,7 +147,7 @@ namespace Cestech.Application.Services
                 var entity = _service.Get(usuario.IdUsuario);
                 if (entity != null)
                 {
-                    entity.Modify(usuario.Nome, usuario.Dt_Nascimento, usuario.Cep);
+                    entity.Modify(usuario.Nome, usuario.Dt_Nascimento, usuario.Cep, usuario.Password);
                     if (entity.Valid)
                     {
                         result.Result = result.Object = _service.Update(entity);

@@ -17,6 +17,7 @@ namespace Cestech.Infrastructure
             if (!optionsBuilder.IsConfigured)
             {
                 optionsBuilder.UseMySql("server=localhost;port=3306;user=root;password=admin123;database=CestechDb");
+                //optionsBuilder.UseSqlServer(@"Server=(localdb)\mssqllocaldb;Database=MyDatabase;Trusted_Connection=True;");
             }
         }
 

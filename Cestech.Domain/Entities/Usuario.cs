@@ -10,6 +10,23 @@ namespace Cestech.Domain.Entities
         private Cep_Value _Cep { get; set; }
         #endregion
 
+        #region Constrututor
+        protected Usuario()
+        {
+           
+        }
+
+        public Usuario(string nome, DateTime dt_nascimento, string cep, string password)
+        {
+            Nome = nome;
+            Dt_Nascimento = dt_nascimento;
+            Cep = cep;
+            Password = password;
+
+            AddValidations();
+        }
+        #endregion
+
         #region Propriedades
         public int IdUsuario { get; protected set; }
         public string Nome { get; protected set; }
@@ -26,23 +43,16 @@ namespace Cestech.Domain.Entities
         public string Password { get; set; }
         #endregion
 
-        #region Constrututor
-        public Usuario(string nome, DateTime dt_nascimento, string cep)
-        {
-            Nome = nome;
-            Dt_Nascimento = dt_nascimento;
-            Cep = cep;
 
-            AddValidations();
-        }
-        #endregion
+
 
         #region Metodos
-        public void Modify(string nome, DateTime dt_nascimento, string cep)
+        public void Modify(string nome, DateTime dt_nascimento, string cep, string password)
         {
             Nome = nome;
             Dt_Nascimento = dt_nascimento;
             Cep = cep;
+            Password = password;
 
             AddValidations();
         }
@@ -57,8 +67,6 @@ namespace Cestech.Domain.Entities
             AddNotifications(new Contract()
                 .Requires()
                 .IsNotNull(Dt_Nascimento, "Usuario.Dt_Nascimento", "Insira uma data de nascimento"));
-
-
         }
         #endregion
     }

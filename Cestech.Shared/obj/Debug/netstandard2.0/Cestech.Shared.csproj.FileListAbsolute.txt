@@ -15,3 +15,12 @@ C:\Users\wcfeitosa\Desktop\CesTech\Cestech.Shared\obj\Debug\netstandard2.0\Ceste
 C:\Users\wcfeitosa\Desktop\CesTech\Cestech.Shared\obj\Debug\netstandard2.0\Cestech.Shared.AssemblyInfo.cs
 C:\Users\wcfeitosa\Desktop\CesTech\Cestech.Shared\obj\Debug\netstandard2.0\Cestech.Shared.dll
 C:\Users\wcfeitosa\Desktop\CesTech\Cestech.Shared\obj\Debug\netstandard2.0\Cestech.Shared.pdb
+C:\Users\wodson\Desktop\Cestech\Cestech.Project.Template\Cestech.Shared\bin\Debug\netstandard2.0\Cestech.Shared.deps.json
+C:\Users\wodson\Desktop\Cestech\Cestech.Project.Template\Cestech.Shared\bin\Debug\netstandard2.0\Cestech.Shared.dll
+C:\Users\wodson\Desktop\Cestech\Cestech.Project.Template\Cestech.Shared\bin\Debug\netstandard2.0\Cestech.Shared.pdb
+C:\Users\wodson\Desktop\Cestech\Cestech.Project.Template\Cestech.Shared\obj\Debug\netstandard2.0\Cestech.Shared.csprojAssemblyReference.cache
+C:\Users\wodson\Desktop\Cestech\Cestech.Project.Template\Cestech.Shared\obj\Debug\netstandard2.0\Cestech.Shared.csproj.CoreCompileInputs.cache
+C:\Users\wodson\Desktop\Cestech\Cestech.Project.Template\Cestech.Shared\obj\Debug\netstandard2.0\Cestech.Shared.AssemblyInfoInputs.cache
+C:\Users\wodson\Desktop\Cestech\Cestech.Project.Template\Cestech.Shared\obj\Debug\netstandard2.0\Cestech.Shared.AssemblyInfo.cs
+C:\Users\wodson\Desktop\Cestech\Cestech.Project.Template\Cestech.Shared\obj\Debug\netstandard2.0\Cestech.Shared.dll
+C:\Users\wodson\Desktop\Cestech\Cestech.Project.Template\Cestech.Shared\obj\Debug\netstandard2.0\Cestech.Shared.pdb

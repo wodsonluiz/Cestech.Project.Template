@@ -15,6 +15,7 @@ namespace Cestech.Infrastructure.Maps
             builder.Property(x => x.Nome).HasColumnName("Nome").HasMaxLength(255).IsRequired();
             builder.Property(x => x.Dt_Nascimento).HasColumnName("Dt_Nascimento");
             builder.Property(x => x.Cep).HasColumnName("Cep").HasMaxLength(9).IsRequired();
+            builder.Property(x => x.Password).HasColumnName("Password").HasMaxLength(255).IsRequired();
 
             // Relatioships
 

@@ -21,8 +21,6 @@ namespace Cestech.Api.Controllers
         {
             if (string.IsNullOrEmpty(NomeUsuario) || string.IsNullOrEmpty(Senha))
                 return Unauthorized();
-
-
                         
             var token = new TokenJWTBuilder()
                 .AddSecurityKey(ProviderJWT.JWTSecurityKey.Create("Secret_Key-Cestech"))

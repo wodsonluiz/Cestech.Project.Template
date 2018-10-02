@@ -26,3 +26,17 @@ C:\Users\wcfeitosa\Desktop\CesTech\Cestech.Infrastructure\obj\Debug\netstandard2
 C:\Users\wcfeitosa\Desktop\CesTech\Cestech.Infrastructure\obj\Debug\netstandard2.0\Cestech.Infrastructure.csproj.CopyComplete
 C:\Users\wcfeitosa\Desktop\CesTech\Cestech.Infrastructure\obj\Debug\netstandard2.0\Cestech.Infrastructure.dll
 C:\Users\wcfeitosa\Desktop\CesTech\Cestech.Infrastructure\obj\Debug\netstandard2.0\Cestech.Infrastructure.pdb
+C:\Users\wodson\Desktop\Cestech\Cestech.Project.Template\Cestech.Infrastructure\bin\Debug\netstandard2.0\Cestech.Infrastructure.deps.json
+C:\Users\wodson\Desktop\Cestech\Cestech.Project.Template\Cestech.Infrastructure\bin\Debug\netstandard2.0\Cestech.Infrastructure.dll
+C:\Users\wodson\Desktop\Cestech\Cestech.Project.Template\Cestech.Infrastructure\bin\Debug\netstandard2.0\Cestech.Infrastructure.pdb
+C:\Users\wodson\Desktop\Cestech\Cestech.Project.Template\Cestech.Infrastructure\bin\Debug\netstandard2.0\Cestech.Domain.dll
+C:\Users\wodson\Desktop\Cestech\Cestech.Project.Template\Cestech.Infrastructure\bin\Debug\netstandard2.0\Cestech.Shared.dll
+C:\Users\wodson\Desktop\Cestech\Cestech.Project.Template\Cestech.Infrastructure\bin\Debug\netstandard2.0\Cestech.Domain.pdb
+C:\Users\wodson\Desktop\Cestech\Cestech.Project.Template\Cestech.Infrastructure\bin\Debug\netstandard2.0\Cestech.Shared.pdb
+C:\Users\wodson\Desktop\Cestech\Cestech.Project.Template\Cestech.Infrastructure\obj\Debug\netstandard2.0\Cestech.Infrastructure.csprojAssemblyReference.cache
+C:\Users\wodson\Desktop\Cestech\Cestech.Project.Template\Cestech.Infrastructure\obj\Debug\netstandard2.0\Cestech.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\wodson\Desktop\Cestech\Cestech.Project.Template\Cestech.Infrastructure\obj\Debug\netstandard2.0\Cestech.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\wodson\Desktop\Cestech\Cestech.Project.Template\Cestech.Infrastructure\obj\Debug\netstandard2.0\Cestech.Infrastructure.AssemblyInfo.cs
+C:\Users\wodson\Desktop\Cestech\Cestech.Project.Template\Cestech.Infrastructure\obj\Debug\netstandard2.0\Cestech.Infrastructure.csproj.CopyComplete
+C:\Users\wodson\Desktop\Cestech\Cestech.Project.Template\Cestech.Infrastructure\obj\Debug\netstandard2.0\Cestech.Infrastructure.dll
+C:\Users\wodson\Desktop\Cestech\Cestech.Project.Template\Cestech.Infrastructure\obj\Debug\netstandard2.0\Cestech.Infrastructure.pdb
