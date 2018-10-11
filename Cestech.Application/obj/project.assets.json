@@ -598,7 +598,7 @@
           "ref/netstandard1.3/_._": {}
         }
       },
-      "NETStandard.Library/2.0.3": {
+      "NETStandard.Library/2.0.1": {
         "type": "package",
         "dependencies": {
           "Microsoft.NETCore.Platforms": "1.1.0"
@@ -2365,13 +2365,14 @@
         "ref/xamarinwatchos10/_._"
       ]
     },
-    "NETStandard.Library/2.0.3": {
-      "sha512": "st47PosZSHrjECdjeIzZQbzivYBJFv6P2nv4cj2ypdI204DO+vZ7l5raGMiX4eXMJ53RfOIg+/s4DHVZ54Nu2A==",
+    "NETStandard.Library/2.0.1": {
+      "sha512": "oA6nwv9MhEKYvLpjZ0ggSpb1g4CQViDVQjLUcDWg598jtvJbpfeP2reqwI1GLW2TbxC/Ml7xL6BBR1HmKPXlTg==",
       "type": "package",
-      "path": "netstandard.library/2.0.3",
+      "path": "netstandard.library/2.0.1",
       "files": [
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
+        "build/NETStandard.Library.targets",
         "build/netstandard2.0/NETStandard.Library.targets",
         "build/netstandard2.0/ref/Microsoft.Win32.Primitives.dll",
         "build/netstandard2.0/ref/System.AppContext.dll",
@@ -2488,7 +2489,7 @@
         "build/netstandard2.0/ref/netstandard.dll",
         "build/netstandard2.0/ref/netstandard.xml",
         "lib/netstandard1.0/_._",
-        "netstandard.library.2.0.3.nupkg.sha512",
+        "netstandard.library.2.0.1.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
     },
@@ -5820,28 +5821,28 @@
     ".NETStandard,Version=v2.0": [
       "Cestech.Application.Dto >= 1.0.0",
       "Cestech.Domain >= 1.0.0",
-      "NETStandard.Library >= 2.0.3",
+      "NETStandard.Library >= 2.0.1",
       "Swashbuckle.AspNetCore >= 3.0.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\wodson\\.nuget\\packages\\": {},
+    "C:\\Users\\wcfeitosa\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\wodson\\Desktop\\Cestech\\Cestech.Project.Template\\Cestech.Application\\Cestech.Application.csproj",
+      "projectUniqueName": "C:\\Users\\wcfeitosa\\Desktop\\Cestech\\Cestech.Project.Template\\Cestech.Application\\Cestech.Application.csproj",
       "projectName": "Cestech.Application",
-      "projectPath": "C:\\Users\\wodson\\Desktop\\Cestech\\Cestech.Project.Template\\Cestech.Application\\Cestech.Application.csproj",
-      "packagesPath": "C:\\Users\\wodson\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\wodson\\Desktop\\Cestech\\Cestech.Project.Template\\Cestech.Application\\obj\\",
+      "projectPath": "C:\\Users\\wcfeitosa\\Desktop\\Cestech\\Cestech.Project.Template\\Cestech.Application\\Cestech.Application.csproj",
+      "packagesPath": "C:\\Users\\wcfeitosa\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\wcfeitosa\\Desktop\\Cestech\\Cestech.Project.Template\\Cestech.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\wodson\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\wcfeitosa\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5854,11 +5855,11 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\wodson\\Desktop\\Cestech\\Cestech.Project.Template\\Cestech.Application.Dto\\Cestech.Application.Dto.csproj": {
-              "projectPath": "C:\\Users\\wodson\\Desktop\\Cestech\\Cestech.Project.Template\\Cestech.Application.Dto\\Cestech.Application.Dto.csproj"
+            "C:\\Users\\wcfeitosa\\Desktop\\Cestech\\Cestech.Project.Template\\Cestech.Application.Dto\\Cestech.Application.Dto.csproj": {
+              "projectPath": "C:\\Users\\wcfeitosa\\Desktop\\Cestech\\Cestech.Project.Template\\Cestech.Application.Dto\\Cestech.Application.Dto.csproj"
             },
-            "C:\\Users\\wodson\\Desktop\\Cestech\\Cestech.Project.Template\\Cestech.Domain\\Cestech.Domain.csproj": {
-              "projectPath": "C:\\Users\\wodson\\Desktop\\Cestech\\Cestech.Project.Template\\Cestech.Domain\\Cestech.Domain.csproj"
+            "C:\\Users\\wcfeitosa\\Desktop\\Cestech\\Cestech.Project.Template\\Cestech.Domain\\Cestech.Domain.csproj": {
+              "projectPath": "C:\\Users\\wcfeitosa\\Desktop\\Cestech\\Cestech.Project.Template\\Cestech.Domain\\Cestech.Domain.csproj"
             }
           }
         }
@@ -5875,7 +5876,7 @@
           "NETStandard.Library": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "[2.0.3, )",
+            "version": "[2.0.1, )",
             "autoReferenced": true
           },
           "Swashbuckle.AspNetCore": {

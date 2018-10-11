@@ -34,3 +34,15 @@ C:\Users\wodson\Desktop\Cestech\Cestech.Project.Template\Cestech.Domain\obj\Debu
 C:\Users\wodson\Desktop\Cestech\Cestech.Project.Template\Cestech.Domain\obj\Debug\netstandard2.0\Cestech.Domain.csproj.CopyComplete
 C:\Users\wodson\Desktop\Cestech\Cestech.Project.Template\Cestech.Domain\obj\Debug\netstandard2.0\Cestech.Domain.dll
 C:\Users\wodson\Desktop\Cestech\Cestech.Project.Template\Cestech.Domain\obj\Debug\netstandard2.0\Cestech.Domain.pdb
+C:\Users\wcfeitosa\Desktop\Cestech\Cestech.Project.Template\Cestech.Domain\bin\Debug\netstandard2.0\Cestech.Domain.deps.json
+C:\Users\wcfeitosa\Desktop\Cestech\Cestech.Project.Template\Cestech.Domain\bin\Debug\netstandard2.0\Cestech.Domain.dll
+C:\Users\wcfeitosa\Desktop\Cestech\Cestech.Project.Template\Cestech.Domain\bin\Debug\netstandard2.0\Cestech.Domain.pdb
+C:\Users\wcfeitosa\Desktop\Cestech\Cestech.Project.Template\Cestech.Domain\bin\Debug\netstandard2.0\Cestech.Shared.dll
+C:\Users\wcfeitosa\Desktop\Cestech\Cestech.Project.Template\Cestech.Domain\bin\Debug\netstandard2.0\Cestech.Shared.pdb
+C:\Users\wcfeitosa\Desktop\Cestech\Cestech.Project.Template\Cestech.Domain\obj\Debug\netstandard2.0\Cestech.Domain.csprojAssemblyReference.cache
+C:\Users\wcfeitosa\Desktop\Cestech\Cestech.Project.Template\Cestech.Domain\obj\Debug\netstandard2.0\Cestech.Domain.csproj.CoreCompileInputs.cache
+C:\Users\wcfeitosa\Desktop\Cestech\Cestech.Project.Template\Cestech.Domain\obj\Debug\netstandard2.0\Cestech.Domain.AssemblyInfoInputs.cache
+C:\Users\wcfeitosa\Desktop\Cestech\Cestech.Project.Template\Cestech.Domain\obj\Debug\netstandard2.0\Cestech.Domain.AssemblyInfo.cs
+C:\Users\wcfeitosa\Desktop\Cestech\Cestech.Project.Template\Cestech.Domain\obj\Debug\netstandard2.0\Cestech.Domain.csproj.CopyComplete
+C:\Users\wcfeitosa\Desktop\Cestech\Cestech.Project.Template\Cestech.Domain\obj\Debug\netstandard2.0\Cestech.Domain.dll
+C:\Users\wcfeitosa\Desktop\Cestech\Cestech.Project.Template\Cestech.Domain\obj\Debug\netstandard2.0\Cestech.Domain.pdb
